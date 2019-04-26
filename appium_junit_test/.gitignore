@@ -1,0 +1,17 @@
+# Ignore all dotfiles...
+.*
+# except for .gitignore
+!.gitignore
+
+# Ignore idea files
+.idea
+.idea_modules
+
+# Ignore iml files
+*.iml
+
+out
+target
+build
+logs
+reports
